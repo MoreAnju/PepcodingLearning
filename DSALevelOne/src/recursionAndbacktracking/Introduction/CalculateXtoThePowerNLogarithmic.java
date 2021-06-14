@@ -1,4 +1,4 @@
-package recursionAndbacktracking;
+package recursionAndbacktracking.Introduction;
 
 import java.util.Scanner;
 // X to the Power N logarithmic time

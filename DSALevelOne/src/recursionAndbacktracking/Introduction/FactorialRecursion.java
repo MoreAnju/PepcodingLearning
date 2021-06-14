@@ -1,4 +1,4 @@
-package recursionAndbacktracking;
+package recursionAndbacktracking.Introduction;
 //Factorial Using Recursion. 
 import java.util.Scanner;
 

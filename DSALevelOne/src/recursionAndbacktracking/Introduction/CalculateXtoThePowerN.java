@@ -1,4 +1,4 @@
-package recursionAndbacktracking;
+package recursionAndbacktracking.Introduction;
 // power function Using recursion
 import java.util.Scanner;
 

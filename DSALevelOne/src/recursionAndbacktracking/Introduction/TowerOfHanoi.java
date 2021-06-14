@@ -1,4 +1,4 @@
-package recursionAndbacktracking;
+package recursionAndbacktracking.Introduction;
 // Tower of hanoi using recursion, 3 tower
 import java.util.Scanner;
 

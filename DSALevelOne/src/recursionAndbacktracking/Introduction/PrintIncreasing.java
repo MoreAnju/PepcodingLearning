@@ -1,4 +1,4 @@
-package recursionAndbacktracking;
+package recursionAndbacktracking.Introduction;
 //recursion function to print number in increasing order
 import java.util.Scanner;
 
