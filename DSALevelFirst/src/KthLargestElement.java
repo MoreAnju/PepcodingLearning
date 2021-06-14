@@ -10,8 +10,7 @@ public class KthLargestElement {
 				}	
 			}
 			count ++;
-			if(count == k) return numbers[i];
-			
+			if(count == k) return numbers[i];	
 		}
 		return 0;
 	}
@@ -20,10 +19,8 @@ public class KthLargestElement {
 		numbers[first]= numbers[second];
 		numbers[second] = temp;
 	}
-	
 	public static void main(String args[]) {
 		int[] input = {3, 1, 9, 6, 12, 24};
 		System.out.print(findNumber(input, 3));
 	}
-
 }
